@@ -1,10 +1,10 @@
 # Screen_saver
 This is a screen saver
 # Features
-A moving block.
-A counter for bounces.
-A counter for corner hits.
-Skins for certain amounts of bounces.
+- A moving block.
+- A counter for bounces.
+- A counter for corner hits.
+- Skins for certain amounts of bounces.
 # How to run
 Just run the screensaver.exe.
 To exit press ESCAPE
