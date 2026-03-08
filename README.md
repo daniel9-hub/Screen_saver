@@ -5,6 +5,7 @@ This is a screen saver
 - A counter for bounces.
 - A counter for corner hits.
 - Skins for certain amounts of bounces.
+- A secret you have to figure out to get bounces quicker.
 # How to run
 Just run the screensaver.exe.
 To exit press ESCAPE
